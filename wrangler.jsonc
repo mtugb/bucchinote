@@ -10,7 +10,8 @@
 		{
 			"binding": "bn",
 			"database_name": "bn",
-			"database_id": "fb7290f1-b523-40d2-a502-ba9d898995fc"
+			"database_id": "fb7290f1-b523-40d2-a502-ba9d898995fc",
+			"migrations_dir": "./drizzle"
 		}
 	]
 	// "vars": {
