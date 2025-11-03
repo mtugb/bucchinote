@@ -9,4 +9,6 @@ app.get('/', (c) => {
   return c.render(<h1>Hello!</h1>)
 })
 
+app.get('/test')
+
 export default app
